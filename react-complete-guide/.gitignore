@@ -1,0 +1,15 @@
+**/.gradle
+**/.idea
+**/.DS_Store
+**/build
+**.*.iml
+**/*.swp
+**/.vscode
+
+# compiled output
+**/dist
+**/tmp
+**/out-tsc
+
+# dependencies
+node_modules
